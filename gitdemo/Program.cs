@@ -7,6 +7,7 @@ namespace gitdemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Anil");
+            Console.WriteLine("HOW ARE YOU");
         }
     }
 }
